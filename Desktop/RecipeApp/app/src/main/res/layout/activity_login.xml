@@ -30,6 +30,7 @@
         android:layout_centerVertical="true"
         android:layout_marginLeft="10dp"
         android:text="Login"
+        android:textStyle="bold"
         android:textColor="#FF3E5659"
         android:textSize="25sp" />
 

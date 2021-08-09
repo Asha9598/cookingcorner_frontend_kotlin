@@ -23,6 +23,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="Cooking Corner"
+        android:textStyle="bold"
         android:textAlignment="center"
         android:textAllCaps="true" />
 
@@ -31,10 +32,11 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="@string/quote"
+
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="#020101"
-        android:textSize="10dp" />
+        android:textSize="15dp" />
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/profileImage"

@@ -30,6 +30,21 @@
         <entry key="..\:/RecipeApp/app/src/main/res/menu/toolbar_custom_menu.xml" value="0.25" />
         <entry key="..\:/RecipeApp/recipewearos/src/main/res/layout/activity_dashboard.xml" value="0.19739583333333333" />
         <entry key="..\:/RecipeApp/recipewearos/src/main/res/layout/activity_login.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/activity_dashboard.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/activity_favourite.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/activity_login.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/activity_new_recipe.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/activity_recipe.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/activity_register.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/activity_reipe_details.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/activity_splash.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/custom_toolbar.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/favourite_adapter_layout.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/fragment_favourite.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/fragment_profile.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/fragment_recipe.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/myrecipe_adapter_layout.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/DELL/Desktop/RecipeApp/app/src/main/res/layout/recipe_home_adpater_layout.xml" value="0.16847826086956522" />
       </map>
     </option>
   </component>

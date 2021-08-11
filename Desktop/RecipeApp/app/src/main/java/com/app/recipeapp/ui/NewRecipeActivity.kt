@@ -99,7 +99,6 @@ class NewRecipeActivity : AppCompatActivity() {
         val recipe = binding.etNewRecipe.text.toString()
         val category = binding.etNewRecipeCategory.text.toString()
         val description = binding.etDescription.text.toString()
-
         CoroutineScope(Dispatchers.IO).launch {
             try {
                 val getRecipeRepo = RecipeRepository()

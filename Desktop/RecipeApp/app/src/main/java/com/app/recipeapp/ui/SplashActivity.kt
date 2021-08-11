@@ -13,7 +13,7 @@ class SplashActivity : AppCompatActivity() {
     private lateinit var progressBar: ProgressBar
     private val activityScope = CoroutineScope(Dispatchers.Main);
     private val CURRENT_PROGRESS = 10
-    private val DELAY = 2000L
+    private val DELAY = 1500L
     private val MAX_VALUE = 10
 
     companion object {

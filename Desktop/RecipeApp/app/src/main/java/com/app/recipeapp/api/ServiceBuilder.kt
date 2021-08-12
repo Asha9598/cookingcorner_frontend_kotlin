@@ -21,7 +21,7 @@ object ServiceBuilder {
         .addConverterFactory(GsonConverterFactory.create())
         .client(okHttp.build())
 
-    //Create retrofit instance
+
     private val retrofit = retrofitBuilder.build()
 
     //Generic function

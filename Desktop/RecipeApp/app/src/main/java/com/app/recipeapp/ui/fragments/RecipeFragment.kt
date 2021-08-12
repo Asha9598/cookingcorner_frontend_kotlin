@@ -36,7 +36,7 @@ class RecipeFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
+
         _binding = FragmentRecipeBinding.inflate(layoutInflater, container, false)
         return binding.root
     }

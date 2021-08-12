@@ -77,7 +77,7 @@ class ProfileFragment : Fragment() {
             context?.startActivity(Intent(context, RecipeActivity::class.java))
         }
         binding.tvEditFullName.setOnClickListener {
-            GlobalClass.globalToast(view?.context!!, "You Can't Update Fullname")
+            GlobalClass.globalToast(view?.context!!, "You Can't Update FullName")
         }
         binding.tvEditUserName.setOnClickListener {
             binding.etProfileUsername.isEnabled = true

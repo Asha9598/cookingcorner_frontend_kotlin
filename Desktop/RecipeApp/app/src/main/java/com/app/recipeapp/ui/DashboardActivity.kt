@@ -47,8 +47,7 @@ class DashboardActivity : AppCompatActivity() {
     }
 
     private fun addActionBarIcon() {
-//        supportActionBar?.setDisplayShowHomeEnabled(true)
-//        supportActionBar?.setIcon(R.drawable.ic_cooking_logo)
+
 
         supportActionBar?.displayOptions = ActionBar.DISPLAY_SHOW_CUSTOM
         supportActionBar?.setCustomView(R.layout.custom_toolbar)

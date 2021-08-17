@@ -20,7 +20,7 @@
         android:layout_toRightOf="@+id/imgLogo"
         android:text="Cooking Corner"
         android:textColor="#FFFFFF"
-        android:textSize="20sp"
+        android:textSize="22sp"
         android:textStyle="bold" />
 
 

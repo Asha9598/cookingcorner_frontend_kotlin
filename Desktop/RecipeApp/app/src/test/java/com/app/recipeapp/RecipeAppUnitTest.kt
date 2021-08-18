@@ -77,7 +77,7 @@ class RecipeAppUnitTest {
         val getResponse = recipeRepository.addNewRecipe(
             Recipe(
                 recipeName = "Momos",
-                recipeDescription = "One of the most sold fast food in kathmandu",
+                recipeDescription = "One of the most sold fast food in Kathmandu",
                 category = "Chinese Fast Food",
                 addedBy = username
             )

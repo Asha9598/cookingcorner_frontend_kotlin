@@ -29,13 +29,13 @@ class LogoutTest {
     fun loginToLogout() {
         onView(withId(R.id.etEmail))
             .perform(ViewActions.clearText())
-            .perform(ViewActions.typeText("ramshah"))
+            .perform(ViewActions.typeText("aasha7"))
         closeSoftKeyboard()
         Thread.sleep(1500)
 
         onView(withId(R.id.etPassword))
             .perform(ViewActions.clearText())
-            .perform(ViewActions.typeText("ramshah"))
+            .perform(ViewActions.typeText("aasha7"))
         closeSoftKeyboard()
         Thread.sleep(1500)
 

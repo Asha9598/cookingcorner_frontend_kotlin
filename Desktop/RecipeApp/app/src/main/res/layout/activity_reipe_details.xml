@@ -22,7 +22,7 @@
             android:textAlignment="center"
             android:textAllCaps="true"
             android:textColor="#FF3D00"
-            android:textSize="16sp"
+            android:textSize="1sp"
             android:textStyle="bold" />
 
 
